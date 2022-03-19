@@ -1,0 +1,8 @@
+*.a
+Distortion1/Builds/
+Distortion1/Distortion1.jucer
+Distortion1/JuceLibraryCode/
+TutorialProject/Builds/
+TutorialProject/JuceLibraryCode/
+TutorialProject/TutorialProject.jucer
+
